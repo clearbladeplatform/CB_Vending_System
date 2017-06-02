@@ -1,0 +1,12 @@
+{
+    "active_key": "",
+    "allow_certificate_auth": false,
+    "allow_key_auth": true,
+    "certificate": "",
+    "description": "",
+    "enabled": true,
+    "keys": "",
+    "name": "WS1",
+    "state": "{model:'WSA1'}",
+    "type": "Weight Sensor"
+}

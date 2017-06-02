@@ -1,0 +1,14 @@
+{
+    "auth": true,
+    "description": "",
+    "edge_sync": {
+        "MyPi3": {
+            "collection::e0cfe5920bfebcf2d38cf2cacd7b": true
+        }
+    },
+    "messaging_url": "platform.clearblade.com:1883",
+    "name": "CB Vending System",
+    "platform_url": "https://platform.clearblade.com",
+    "system_key": "daaed0920be2ebdbc3e4c2c5d59c01",
+    "system_secret": "DAAED0920B8AB290FFF48AFDFA5A"
+}

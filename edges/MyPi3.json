@@ -1,0 +1,13 @@
+{
+    "description": "",
+    "last_seen_version": "3.9-rc1",
+    "location": null,
+    "mac_address": null,
+    "name": "MyPi3",
+    "policy_name": null,
+    "resolver_func": null,
+    "sync_edge_tables": "",
+    "system_key": "daaed0920be2ebdbc3e4c2c5d59c01",
+    "system_secret": "DAAED0920B8AB290FFF48AFDFA5A",
+    "token": "B408GEes6728V94hd2823P7B5Fl346"
+}
